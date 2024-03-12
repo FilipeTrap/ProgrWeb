@@ -10,3 +10,4 @@ const soma = num1 + num2;
 
 // Exibe o resultado
 console.log(`A soma de ${num1} e ${num2} é: ${soma}`);
+ 
