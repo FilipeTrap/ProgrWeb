@@ -10,3 +10,4 @@ let total = 2024 - ano
 
 
 console.log(`vocêm tem ${total} anos`);
+   
