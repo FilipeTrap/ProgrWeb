@@ -10,3 +10,4 @@ if (valorSaque % 10 === 0) {
 } else {
     console.log("Valor inválido. Digite um valor múltiplo de 10.");
 }
+ 
